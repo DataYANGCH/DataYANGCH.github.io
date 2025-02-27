@@ -3,7 +3,7 @@ title: Yang CH
 SEOTitle: Yang 博客 | GG
 header-img: img/home-bg.jpg
 email: 1611800354@qq.com
-description: "这里是 @YangCH的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
+description: "这是 @YangCH的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
 keyword: "YangCH, 程序员, , 宅, 骑行, @业余摄影师,, 博客, 个人网站, 互联网, 汽车嵌入式软件工程师, C/C++, Python, 苏州, 贵州,北京,上海, 设计"
 url: "https://datayangch.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -74,7 +74,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-about-description: "一切都是过程，要开心！重在体验！ <br> 每天都有好阳光 @everyday!"
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
